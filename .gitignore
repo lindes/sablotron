@@ -5,3 +5,11 @@ config.*
 libtool
 .deps
 src/command/sablot-config
+*.o
+*.lo
+.libs
+libsablot.la
+doc/apidoc/jsdom-ref
+doc/apidoc/sablot
+doc/apidoc/sxp
+src/command/sabcmd
