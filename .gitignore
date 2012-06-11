@@ -1,0 +1,7 @@
+Makefile
+autocfg/config.h
+autocfg/stamp-h1
+config.*
+libtool
+.deps
+src/command/sablot-config
