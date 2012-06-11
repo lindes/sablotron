@@ -1,5 +1,6 @@
 This is the README file for the XSL processor called Sablotron
 
+0. About Sablotron on Github
 1. What is it Sablotron?
 2. Licensing
 3. Warranty
@@ -7,6 +8,15 @@ This is the README file for the XSL processor called Sablotron
 5. Installation
 6. Sablotron and Perl
 7. More info
+
+0. About Sablotron on Github
+========================================
+
+This is just a manually-updated mirror of
+[sablotron](http://sourceforge.net/projects/sablotron/), created to
+allow me to more easily track changes I might want to make, and for
+the world to have the option of benefiting from them, if they're
+useful.  Forked by David Lindes, 2012-05, from 1.0.3.
 
 
 1. What is Sablotron?
